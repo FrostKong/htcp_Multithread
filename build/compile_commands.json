@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/Acceptor.cc.o -c /home/hans/mymuduo/Acceptor.cc",
+  "file": "/home/hans/mymuduo/Acceptor.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/Buffer.cc.o -c /home/hans/mymuduo/Buffer.cc",
+  "file": "/home/hans/mymuduo/Buffer.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/Channel.cc.o -c /home/hans/mymuduo/Channel.cc",
+  "file": "/home/hans/mymuduo/Channel.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/CurrentThread.cc.o -c /home/hans/mymuduo/CurrentThread.cc",
+  "file": "/home/hans/mymuduo/CurrentThread.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/DefaultPoller.cc.o -c /home/hans/mymuduo/DefaultPoller.cc",
+  "file": "/home/hans/mymuduo/DefaultPoller.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/EPollPoller.cc.o -c /home/hans/mymuduo/EPollPoller.cc",
+  "file": "/home/hans/mymuduo/EPollPoller.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/EventLoop.cc.o -c /home/hans/mymuduo/EventLoop.cc",
+  "file": "/home/hans/mymuduo/EventLoop.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/EventLoopThread.cc.o -c /home/hans/mymuduo/EventLoopThread.cc",
+  "file": "/home/hans/mymuduo/EventLoopThread.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/EventLoopThreadPool.cc.o -c /home/hans/mymuduo/EventLoopThreadPool.cc",
+  "file": "/home/hans/mymuduo/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/InetAddress.cc.o -c /home/hans/mymuduo/InetAddress.cc",
+  "file": "/home/hans/mymuduo/InetAddress.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/Logger.cc.o -c /home/hans/mymuduo/Logger.cc",
+  "file": "/home/hans/mymuduo/Logger.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/Poller.cc.o -c /home/hans/mymuduo/Poller.cc",
+  "file": "/home/hans/mymuduo/Poller.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/Socket.cc.o -c /home/hans/mymuduo/Socket.cc",
+  "file": "/home/hans/mymuduo/Socket.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/TcpConnection.cc.o -c /home/hans/mymuduo/TcpConnection.cc",
+  "file": "/home/hans/mymuduo/TcpConnection.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/TcpServer.cc.o -c /home/hans/mymuduo/TcpServer.cc",
+  "file": "/home/hans/mymuduo/TcpServer.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/Thread.cc.o -c /home/hans/mymuduo/Thread.cc",
+  "file": "/home/hans/mymuduo/Thread.cc"
+},
+{
+  "directory": "/home/hans/mymuduo/build",
+  "command": "/usr/bin/g++ -DMYMUDUO_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/MYMUDUO.dir/Timestamp.cc.o -c /home/hans/mymuduo/Timestamp.cc",
+  "file": "/home/hans/mymuduo/Timestamp.cc"
+}
+]
